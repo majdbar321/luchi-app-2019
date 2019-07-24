@@ -1,0 +1,8 @@
+{
+"catpics":
+  [
+      {
+          "source": require("../images/sport.jpg"),
+      },
+  ]
+}
